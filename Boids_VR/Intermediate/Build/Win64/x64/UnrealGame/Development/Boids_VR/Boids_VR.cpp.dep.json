@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\oliver\\documents\\unreal projects\\boids_vr\\intermediate\\source\\boids_vr.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\oliver\\documents\\unreal projects\\boids_vr\\intermediate\\build\\win64\\x64\\boids_vr\\development\\core\\sharedpch.core.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\oliver\\documents\\unreal projects\\boids_vr\\intermediate\\build\\win64\\x64\\unrealgame\\development\\boids_vr\\definitions.boids_vr.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

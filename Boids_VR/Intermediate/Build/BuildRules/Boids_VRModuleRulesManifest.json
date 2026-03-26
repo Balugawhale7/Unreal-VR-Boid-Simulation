@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\Oliver\\Documents\\Unreal Projects\\Boids_VR\\Intermediate\\Source\\Boids_VR.Build.cs",
+		"C:\\Users\\Oliver\\Documents\\Unreal Projects\\Boids_VR\\Intermediate\\Source\\Boids_VR.Target.cs",
+		"C:\\Users\\Oliver\\Documents\\Unreal Projects\\Boids_VR\\Intermediate\\Source\\Boids_VRClient.Target.cs",
+		"C:\\Users\\Oliver\\Documents\\Unreal Projects\\Boids_VR\\Intermediate\\Source\\Boids_VREditor.Target.cs",
+		"C:\\Users\\Oliver\\Documents\\Unreal Projects\\Boids_VR\\Intermediate\\Source\\Boids_VRServer.Target.cs"
+	],
+	"EngineVersion": "5.4.4"
+}
