@@ -4,7 +4,7 @@ This was part of a University project. This contains just project files, build i
 
 <img width="1267" height="707" alt="image" src="https://github.com/user-attachments/assets/be62f903-7291-4edd-86dd-3ccf8196aa50" />
 
-**Link to video demo of project:** https://youtu.be/1WhtZJly2eY
+**Link to video demo of project:** https://youtu.be/ghWKVlnsO7g
 
 **Link to build:** https://drive.google.com/file/d/1HsAsdzJjo_mluqdX0pGhpiM9RUD2z1mg/view?usp=drive_link
 
