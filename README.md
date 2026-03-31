@@ -1,4 +1,4 @@
-# Unreal VR Boid Simulation
+# Unreal 3D VR Boid Simulation
 This is a 3D VR simulation of Boids made in Unreal Engine. A Boid being an individual agent following simple rules, an example of bird/fish flocking simulation. 
 This was part of a University project. This contains just project files, build included in link below.
 
